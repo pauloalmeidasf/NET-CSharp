@@ -68,6 +68,8 @@ namespace Projeto01_Conceitos
             //Tipos de variáveis textuais
             string nomeAluno = "Pedro Soares";
 
+            string enderecoAluno = null;
+
             char generoPessoa = 'F';
 
             //Tipos de variáveis booleanas. Aceitam os valores TRUE e FALSE
