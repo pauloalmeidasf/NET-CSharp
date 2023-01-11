@@ -1,0 +1,8 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto09_Escape\bin\Debug\Projeto09_Escape.exe.config
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto09_Escape\bin\Debug\Projeto09_Escape.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto09_Escape\bin\Debug\Projeto09_Escape.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto09_Escape\obj\Debug\Projeto09_Escape.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto09_Escape\obj\Debug\Projeto09_Escape.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto09_Escape\obj\Debug\Projeto09_Escape.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto09_Escape\obj\Debug\Projeto09_Escape.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto09_Escape\obj\Debug\Projeto09_Escape.pdb
