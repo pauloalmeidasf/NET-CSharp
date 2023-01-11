@@ -13,7 +13,7 @@ namespace Projeto03_OperadoresIncrementais
         {
 
             /*
-             * Operadores Incrementais
+             * Operadores Incrementais - Adiciona 1 unidade
              * 
              * Pré-incremental (++x)
              * Pós-incremental (x++)
@@ -23,6 +23,7 @@ namespace Projeto03_OperadoresIncrementais
             Console.WriteLine("Pré-Incremental");
             Console.WriteLine(new string('-', 50));
 
+            //pré-incremental
             int a = 2;
 
             Console.WriteLine("Valor de 'a': " + a);
@@ -34,6 +35,7 @@ namespace Projeto03_OperadoresIncrementais
             Console.WriteLine("Pós-Incremental");
             Console.WriteLine(new string('-', 50));
 
+            //pós-incremental
             int b = 3;
 
             Console.WriteLine($"Valor de 'b': {b}");
@@ -47,7 +49,7 @@ namespace Projeto03_OperadoresIncrementais
             Console.WriteLine(new string('-', 50));
 
             /*
-             * Operadores Decrementais
+             * Operadores Decrementais - Subtrai uma unidade
              * 
              * Pré-decrementais (--x)
              * Pós-decrementais (x--)
@@ -58,6 +60,7 @@ namespace Projeto03_OperadoresIncrementais
 
             Console.WriteLine(new string('-',50));
 
+            //pré-decremental
             int e = 4;
 
             Console.WriteLine($"Valor de 'e': {e}");
@@ -70,6 +73,7 @@ namespace Projeto03_OperadoresIncrementais
 
             Console.WriteLine(new string('-',50));
 
+            //pós-decremental
             int f = 5;
 
             Console.WriteLine($"Valor de 'f': {f}");
