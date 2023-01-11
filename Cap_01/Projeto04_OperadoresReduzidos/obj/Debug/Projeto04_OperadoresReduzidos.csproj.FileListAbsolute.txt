@@ -6,3 +6,11 @@ C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto04_Opera
 C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto04_OperadoresReduzidos\obj\Debug\Projeto04_OperadoresReduzidos.csproj.CoreCompileInputs.cache
 C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto04_OperadoresReduzidos\obj\Debug\Projeto04_OperadoresReduzidos.exe
 C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto04_OperadoresReduzidos\obj\Debug\Projeto04_OperadoresReduzidos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto04_OperadoresReduzidos\bin\Debug\Projeto04_OperadoresReduzidos.exe.config
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto04_OperadoresReduzidos\bin\Debug\Projeto04_OperadoresReduzidos.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto04_OperadoresReduzidos\bin\Debug\Projeto04_OperadoresReduzidos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto04_OperadoresReduzidos\obj\Debug\Projeto04_OperadoresReduzidos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto04_OperadoresReduzidos\obj\Debug\Projeto04_OperadoresReduzidos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto04_OperadoresReduzidos\obj\Debug\Projeto04_OperadoresReduzidos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto04_OperadoresReduzidos\obj\Debug\Projeto04_OperadoresReduzidos.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto04_OperadoresReduzidos\obj\Debug\Projeto04_OperadoresReduzidos.pdb

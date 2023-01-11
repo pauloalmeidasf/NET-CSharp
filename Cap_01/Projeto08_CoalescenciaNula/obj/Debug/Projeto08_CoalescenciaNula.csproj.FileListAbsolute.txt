@@ -1,0 +1,8 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto08_CoalescenciaNula\bin\Debug\Projeto08_CoalescenciaNula.exe.config
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto08_CoalescenciaNula\bin\Debug\Projeto08_CoalescenciaNula.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto08_CoalescenciaNula\bin\Debug\Projeto08_CoalescenciaNula.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto08_CoalescenciaNula\obj\Debug\Projeto08_CoalescenciaNula.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto08_CoalescenciaNula\obj\Debug\Projeto08_CoalescenciaNula.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto08_CoalescenciaNula\obj\Debug\Projeto08_CoalescenciaNula.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto08_CoalescenciaNula\obj\Debug\Projeto08_CoalescenciaNula.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto08_CoalescenciaNula\obj\Debug\Projeto08_CoalescenciaNula.pdb

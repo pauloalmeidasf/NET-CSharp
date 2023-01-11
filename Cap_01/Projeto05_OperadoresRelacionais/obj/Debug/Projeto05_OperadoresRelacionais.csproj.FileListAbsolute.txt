@@ -6,3 +6,11 @@ C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto05_Opera
 C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.csproj.CoreCompileInputs.cache
 C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.exe
 C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto05_OperadoresRelacionais\bin\Debug\Projeto05_OperadoresRelacionais.exe.config
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto05_OperadoresRelacionais\bin\Debug\Projeto05_OperadoresRelacionais.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto05_OperadoresRelacionais\bin\Debug\Projeto05_OperadoresRelacionais.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.pdb

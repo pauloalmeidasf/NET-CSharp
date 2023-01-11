@@ -6,3 +6,11 @@ C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto06_Opera
 C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.csproj.CoreCompileInputs.cache
 C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.exe
 C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto06_OperadoresLogicos\bin\Debug\Projeto06_OperadoresLogicos.exe.config
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto06_OperadoresLogicos\bin\Debug\Projeto06_OperadoresLogicos.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto06_OperadoresLogicos\bin\Debug\Projeto06_OperadoresLogicos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_01\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.pdb
