@@ -1,0 +1,8 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto07_OperadorTernario\bin\Debug\Projeto07_OperadorTernario.exe.config
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto07_OperadorTernario\bin\Debug\Projeto07_OperadorTernario.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto07_OperadorTernario\bin\Debug\Projeto07_OperadorTernario.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto07_OperadorTernario\obj\Debug\Projeto07_OperadorTernario.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto07_OperadorTernario\obj\Debug\Projeto07_OperadorTernario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto07_OperadorTernario\obj\Debug\Projeto07_OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto07_OperadorTernario\obj\Debug\Projeto07_OperadorTernario.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto07_OperadorTernario\obj\Debug\Projeto07_OperadorTernario.pdb

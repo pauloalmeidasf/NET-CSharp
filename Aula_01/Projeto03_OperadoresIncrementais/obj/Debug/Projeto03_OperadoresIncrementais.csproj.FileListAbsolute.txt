@@ -1,0 +1,8 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto03_OperadoresIncrementais\bin\Debug\Projeto03_OperadoresIncrementais.exe.config
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto03_OperadoresIncrementais\bin\Debug\Projeto03_OperadoresIncrementais.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto03_OperadoresIncrementais\bin\Debug\Projeto03_OperadoresIncrementais.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto03_OperadoresIncrementais\obj\Debug\Projeto03_OperadoresIncrementais.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto03_OperadoresIncrementais\obj\Debug\Projeto03_OperadoresIncrementais.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto03_OperadoresIncrementais\obj\Debug\Projeto03_OperadoresIncrementais.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto03_OperadoresIncrementais\obj\Debug\Projeto03_OperadoresIncrementais.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto03_OperadoresIncrementais\obj\Debug\Projeto03_OperadoresIncrementais.pdb
