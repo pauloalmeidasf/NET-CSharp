@@ -5,7 +5,6 @@
  * 
  */
 
-
 int a = 20;
 int b = 100;
 
@@ -53,8 +52,6 @@ else
 a = 20;
 b = 20;
 
-int c = 30;
-
 if (a < b)
 {
 
@@ -93,6 +90,3 @@ else
 }
 
 Console.ReadKey();
-
-
-
