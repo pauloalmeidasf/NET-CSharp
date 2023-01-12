@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\bin\Debug\net6.0\Projeto04_For.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\bin\Debug\net6.0\Projeto04_For.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\bin\Debug\net6.0\Projeto04_For.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\bin\Debug\net6.0\Projeto04_For.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\bin\Debug\net6.0\Projeto04_For.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\obj\Debug\net6.0\Projeto04_For.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\obj\Debug\net6.0\Projeto04_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\obj\Debug\net6.0\Projeto04_For.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\obj\Debug\net6.0\Projeto04_For.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\obj\Debug\net6.0\Projeto04_For.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\obj\Debug\net6.0\Projeto04_For.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\obj\Debug\net6.0\refint\Projeto04_For.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\obj\Debug\net6.0\Projeto04_For.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\obj\Debug\net6.0\Projeto04_For.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto04_For\obj\Debug\net6.0\ref\Projeto04_For.dll

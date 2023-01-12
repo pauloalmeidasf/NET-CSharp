@@ -12,7 +12,7 @@ do
 
     num += 1000;
 
-} while (num <= 12000);
+} while (num <= 5000);
 
 Console.ReadKey();
 
