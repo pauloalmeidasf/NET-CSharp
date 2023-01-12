@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\bin\Debug\net6.0\Projeto01_ComandoIf.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\bin\Debug\net6.0\Projeto01_ComandoIf.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\bin\Debug\net6.0\Projeto01_ComandoIf.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\bin\Debug\net6.0\Projeto01_ComandoIf.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\bin\Debug\net6.0\Projeto01_ComandoIf.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\obj\Debug\net6.0\Projeto01_ComandoIf.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\obj\Debug\net6.0\Projeto01_ComandoIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\obj\Debug\net6.0\Projeto01_ComandoIf.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\obj\Debug\net6.0\Projeto01_ComandoIf.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\obj\Debug\net6.0\Projeto01_ComandoIf.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\obj\Debug\net6.0\Projeto01_ComandoIf.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\obj\Debug\net6.0\refint\Projeto01_ComandoIf.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\obj\Debug\net6.0\Projeto01_ComandoIf.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\obj\Debug\net6.0\Projeto01_ComandoIf.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto01_ComandoIf\obj\Debug\net6.0\ref\Projeto01_ComandoIf.dll

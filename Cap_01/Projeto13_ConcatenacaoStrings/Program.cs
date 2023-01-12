@@ -14,6 +14,7 @@ namespace Projeto13_ConcatenacaoStrings
             string nome = "Julio ";
             string sobrenome = "Cesar";
 
+            //Concatenação usando o método Concat da classe String
             string nomeCompleto = string.Concat(nome, sobrenome);
 
             Console.WriteLine($"Nome completo: {nomeCompleto}");
