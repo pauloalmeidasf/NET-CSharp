@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\bin\Debug\net6.0\Projeto03_While.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\bin\Debug\net6.0\Projeto03_While.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\bin\Debug\net6.0\Projeto03_While.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\bin\Debug\net6.0\Projeto03_While.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\bin\Debug\net6.0\Projeto03_While.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\obj\Debug\net6.0\Projeto03_While.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\obj\Debug\net6.0\Projeto03_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\obj\Debug\net6.0\Projeto03_While.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\obj\Debug\net6.0\Projeto03_While.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\obj\Debug\net6.0\Projeto03_While.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\obj\Debug\net6.0\Projeto03_While.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\obj\Debug\net6.0\refint\Projeto03_While.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\obj\Debug\net6.0\Projeto03_While.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\obj\Debug\net6.0\Projeto03_While.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto03_While\obj\Debug\net6.0\ref\Projeto03_While.dll
