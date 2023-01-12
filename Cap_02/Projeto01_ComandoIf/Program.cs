@@ -5,11 +5,12 @@
  * 
  */
 
+Console.WriteLine("Exemplo 1");
+
 int a = 20;
 int b = 100;
 
-//Exemplo 1
-
+//Como a condição é verdadeira, o texto será exibido
 if (a < b)
 {
 
@@ -17,75 +18,116 @@ if (a < b)
 
 }
 
-a = 30;
-b = 10;
+Console.WriteLine(new string('-', 40));
 
-//Exemplo 2
+Console.WriteLine("Exemplo 2 - Bloco não executado");
 
-if (a < b)
+int c = 20;
+int d = 10;
+
+//Como a condição é falsa, o texto NÃO será exibido
+if (c < d)
 {
 
-    Console.WriteLine($"{a} é menor que {b}");
+    Console.WriteLine($"{c} é menor que {d}");
 
 }
 
-a = 20;
-b = 10;
+Console.WriteLine(new string('-', 40));
 
-//Exemplo 3
+Console.WriteLine("Exemplo 3");
 
-if (a < b)
+//Como a condição é falsa, será exibido o texto do else
+if (c < d)
 {
 
-    Console.WriteLine($"{a} é menor que {b}");
+    Console.WriteLine($"{c} é menor que {d}");
 
 }
 else
 {
 
-    Console.WriteLine($"{a} é maior que {b}");
+    Console.WriteLine($"{c} é maior que {d}");
 
 }
 
-//Exemplo 4
+Console.WriteLine(new string('-', 40));
 
-a = 20;
-b = 20;
+Console.WriteLine("Exemplo 4 - erro lógico");
 
-if (a < b)
+int e = 20;
+int f = 20;
+
+//Como a condição é falsa, será exibido o texto do else
+//que, nesse caso, será um erro
+
+if (e < f)
 {
 
-    Console.WriteLine($"{a} é menor que {b}");
-
-}
-else if(a > b)
-{
-
-    Console.WriteLine($"{a} é maior que {b}");
-
-}
-else
-{
-
-    Console.WriteLine($"{a} é igual {b}");
-
-}
-
-//Exemplo 5
-
-int d = 30;
-int e = 30;
-
-if(d != e)
-{
-
-    Console.WriteLine($"'d' e 'e' são diferentes");
+    Console.WriteLine($"{e} é menor que {f}");
 
 }
 else
 {
 
-    Console.WriteLine($"'d' e 'e' são iguais");
+    Console.WriteLine($"{e} é maior que {f}");
+
+}
+
+Console.WriteLine(new string('-', 40));
+
+Console.WriteLine("Exemplo 4");
+
+//Para corrigir esta decisão
+//precisaremos de mais uma comparação
+
+if (e < f)
+{
+
+    Console.WriteLine($"{e} é menor que {f}");
+
+}
+else if (e > f)
+{
+
+    Console.WriteLine($"{e} é maior que {f}");
+
+}
+else
+{
+
+    Console.WriteLine($"{e} é igual a {f}");
+
+}
+
+Console.WriteLine(new string('-', 40));
+
+Console.WriteLine("Exemplo 5 - If aninhado");
+
+int g = 60;
+int h = 40;
+
+if (g != h)
+{
+
+    if (g < h)
+    {
+
+        Console.WriteLine($"{g} é menor que {h}");
+
+    }
+    else
+    {
+
+        Console.WriteLine($"{g} é maior que {h}");
+
+    }
+
+}
+else
+{
+
+    Console.WriteLine($"{g} é igual a {h}");
 
 }
 
