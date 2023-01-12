@@ -49,7 +49,6 @@ namespace Projeto11_Casting
             Console.WriteLine($"Converte bool em string: {Convert.ToString(valorLogico)}");
             Console.WriteLine($"Converte bool em int: {Convert.ToInt32(valorLogico)}");
 
-
             Console.ReadKey();
 
         }
