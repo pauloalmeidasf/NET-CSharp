@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NomesEstados
+namespace DadosBanco
 {
-
-    enum Estados
+    internal class Banco
     {
 
-        SP, MG, RS, SC, PE, BA, GO
+        public string? Estado { get; set; }
 
     }
-
 }
