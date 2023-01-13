@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\bin\Debug\net6.0\Projeto06_Foreach.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\bin\Debug\net6.0\Projeto06_Foreach.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\bin\Debug\net6.0\Projeto06_Foreach.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\bin\Debug\net6.0\Projeto06_Foreach.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\bin\Debug\net6.0\Projeto06_Foreach.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\obj\Debug\net6.0\Projeto06_Foreach.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\obj\Debug\net6.0\Projeto06_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\obj\Debug\net6.0\Projeto06_Foreach.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\obj\Debug\net6.0\Projeto06_Foreach.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\obj\Debug\net6.0\Projeto06_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\obj\Debug\net6.0\Projeto06_Foreach.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\obj\Debug\net6.0\refint\Projeto06_Foreach.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\obj\Debug\net6.0\Projeto06_Foreach.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\obj\Debug\net6.0\Projeto06_Foreach.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_02\Projeto06_Foreach\obj\Debug\net6.0\ref\Projeto06_Foreach.dll
