@@ -12,7 +12,7 @@ string[] lista = { "Brasil", "Alemanha", "México", "Chile", "Holanda", "Polôni
 foreach(var pais in lista)
 {
 
-    if (pais.Contains("m"))
+    if (pais.Contains("M") || pais.Contains("m"))
     {
 
         Console.WriteLine($"Nome do país: {pais}");
