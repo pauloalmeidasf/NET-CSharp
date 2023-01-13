@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\bin\Debug\net6.0\Projeto02_Propriedades.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\bin\Debug\net6.0\Projeto02_Propriedades.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\bin\Debug\net6.0\Projeto02_Propriedades.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\bin\Debug\net6.0\Projeto02_Propriedades.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\bin\Debug\net6.0\Projeto02_Propriedades.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\obj\Debug\net6.0\Projeto02_Propriedades.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\obj\Debug\net6.0\Projeto02_Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\obj\Debug\net6.0\Projeto02_Propriedades.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\obj\Debug\net6.0\Projeto02_Propriedades.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\obj\Debug\net6.0\Projeto02_Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\obj\Debug\net6.0\Projeto02_Propriedades.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\obj\Debug\net6.0\refint\Projeto02_Propriedades.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\obj\Debug\net6.0\Projeto02_Propriedades.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\obj\Debug\net6.0\Projeto02_Propriedades.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto02_Propriedades\obj\Debug\net6.0\ref\Projeto02_Propriedades.dll

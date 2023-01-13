@@ -50,13 +50,12 @@ namespace Projeto01_Classes.Class
     internal class Automovel
     {
 
-        private string Fabricante;
+        public string Fabricante;
         public string Modelo;
         public string Placa;
         public string Cor;
         public short Ano;
-
-
+        public decimal ValorCarro;
 
     }
 
