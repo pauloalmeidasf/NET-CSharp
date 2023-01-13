@@ -10,4 +10,22 @@ foreach (Estados e in Enum.GetValues(typeof(Estados)))
  
 }
 
+string estado = "SP";
+
+int registros = 0;
+
+foreach(var e in listaEstados)
+{
+
+    if(estado == e)
+    {
+
+        registros++;
+
+    }
+    
+}
+
+Console.WriteLine($"Registros encontrados: {registros}");
+
 Console.ReadKey();
