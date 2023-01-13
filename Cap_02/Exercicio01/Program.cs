@@ -41,7 +41,7 @@ try
 
     }
 
-    string resposta = $"Valor do ingresso: {valorIngresso}";
+    string resposta = $"Valor do ingresso: {valorIngresso:c}";
 
     Console.WriteLine(resposta);
 
