@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\obj\Debug\net6.0\Projeto03_Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\obj\Debug\net6.0\Projeto03_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\obj\Debug\net6.0\Projeto03_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\obj\Debug\net6.0\Projeto03_Encapsulamento.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\obj\Debug\net6.0\Projeto03_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\bin\Debug\net6.0\Projeto03_Encapsulamento.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\bin\Debug\net6.0\Projeto03_Encapsulamento.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\bin\Debug\net6.0\Projeto03_Encapsulamento.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\bin\Debug\net6.0\Projeto03_Encapsulamento.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\bin\Debug\net6.0\Projeto03_Encapsulamento.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\obj\Debug\net6.0\Projeto03_Encapsulamento.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\obj\Debug\net6.0\refint\Projeto03_Encapsulamento.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\obj\Debug\net6.0\Projeto03_Encapsulamento.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\obj\Debug\net6.0\Projeto03_Encapsulamento.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto03_Encapsulamento\obj\Debug\net6.0\ref\Projeto03_Encapsulamento.dll
