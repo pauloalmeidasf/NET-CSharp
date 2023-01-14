@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\bin\Debug\net6.0\Projeto07_Enumeradores.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\bin\Debug\net6.0\Projeto07_Enumeradores.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\bin\Debug\net6.0\Projeto07_Enumeradores.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\bin\Debug\net6.0\Projeto07_Enumeradores.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\bin\Debug\net6.0\Projeto07_Enumeradores.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\obj\Debug\net6.0\Projeto07_Enumeradores.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\obj\Debug\net6.0\Projeto07_Enumeradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\obj\Debug\net6.0\Projeto07_Enumeradores.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\obj\Debug\net6.0\Projeto07_Enumeradores.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\obj\Debug\net6.0\Projeto07_Enumeradores.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\obj\Debug\net6.0\Projeto07_Enumeradores.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\obj\Debug\net6.0\refint\Projeto07_Enumeradores.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\obj\Debug\net6.0\Projeto07_Enumeradores.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\obj\Debug\net6.0\Projeto07_Enumeradores.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto07_Enumeradores\obj\Debug\net6.0\ref\Projeto07_Enumeradores.dll
