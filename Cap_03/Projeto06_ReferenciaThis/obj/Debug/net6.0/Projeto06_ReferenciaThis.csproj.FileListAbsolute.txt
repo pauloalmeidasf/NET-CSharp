@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\bin\Debug\net6.0\Projeto06_ReferenciaThis.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\bin\Debug\net6.0\Projeto06_ReferenciaThis.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\bin\Debug\net6.0\Projeto06_ReferenciaThis.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\bin\Debug\net6.0\Projeto06_ReferenciaThis.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\bin\Debug\net6.0\Projeto06_ReferenciaThis.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\obj\Debug\net6.0\Projeto06_ReferenciaThis.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\obj\Debug\net6.0\Projeto06_ReferenciaThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\obj\Debug\net6.0\Projeto06_ReferenciaThis.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\obj\Debug\net6.0\Projeto06_ReferenciaThis.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\obj\Debug\net6.0\Projeto06_ReferenciaThis.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\obj\Debug\net6.0\Projeto06_ReferenciaThis.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\obj\Debug\net6.0\refint\Projeto06_ReferenciaThis.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\obj\Debug\net6.0\Projeto06_ReferenciaThis.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\obj\Debug\net6.0\Projeto06_ReferenciaThis.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto06_ReferenciaThis\obj\Debug\net6.0\ref\Projeto06_ReferenciaThis.dll
