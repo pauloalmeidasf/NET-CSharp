@@ -1,0 +1,5 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto04_PropriedadesExpressoes\obj\Debug\net6.0\Projeto04_PropriedadesExpressoes.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto04_PropriedadesExpressoes\obj\Debug\net6.0\Projeto04_PropriedadesExpressoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto04_PropriedadesExpressoes\obj\Debug\net6.0\Projeto04_PropriedadesExpressoes.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto04_PropriedadesExpressoes\obj\Debug\net6.0\Projeto04_PropriedadesExpressoes.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto04_PropriedadesExpressoes\obj\Debug\net6.0\Projeto04_PropriedadesExpressoes.csproj.CoreCompileInputs.cache
