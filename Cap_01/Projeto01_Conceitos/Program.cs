@@ -68,6 +68,7 @@ namespace Projeto01_Conceitos
             //Tipos de variáveis textuais
             string nomeAluno = "Pedro Soares";
 
+            //Tipos-referência podem ser inicializados com null. O valor null significa que a variável não referencia objeto algum na memória
             string enderecoAluno = null;
 
             char generoPessoa = 'F';
@@ -76,6 +77,10 @@ namespace Projeto01_Conceitos
             bool testeNivelamento = true;
 
             //Tipos anuláveis
+
+            //Tipos-valor não, por padrão, não permitem a incialização com null. Para permitir que um tipo-valor seja inicializado com null,
+            //deve-se utilizar o ponto de interrogação (?)
+
             int? testeIntegridade = null;
 
             //Variáveis do tipo implícito

@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\bin\Debug\net6.0\Projeto08_Estruturas.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\bin\Debug\net6.0\Projeto08_Estruturas.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\bin\Debug\net6.0\Projeto08_Estruturas.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\bin\Debug\net6.0\Projeto08_Estruturas.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\bin\Debug\net6.0\Projeto08_Estruturas.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\obj\Debug\net6.0\Projeto08_Estruturas.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\obj\Debug\net6.0\Projeto08_Estruturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\obj\Debug\net6.0\Projeto08_Estruturas.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\obj\Debug\net6.0\Projeto08_Estruturas.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\obj\Debug\net6.0\Projeto08_Estruturas.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\obj\Debug\net6.0\Projeto08_Estruturas.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\obj\Debug\net6.0\refint\Projeto08_Estruturas.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\obj\Debug\net6.0\Projeto08_Estruturas.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\obj\Debug\net6.0\Projeto08_Estruturas.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto08_Estruturas\obj\Debug\net6.0\ref\Projeto08_Estruturas.dll
