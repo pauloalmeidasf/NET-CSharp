@@ -9,9 +9,9 @@ namespace Projeto09_ModificadorStatic
     internal class Automovel
     {
 
-        public static string Fabricante { get; set; }
+        public static string? Fabricante { get; set; }
 
-        public static string Modelo { get; set; }
+        public static string? Modelo { get; set; }
 
         public string ExibirDados()
         {

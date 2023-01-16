@@ -1,5 +1,4 @@
-﻿
-using Projeto09_ModificadorStatic;
+﻿using Projeto09_ModificadorStatic;
 
 Automovel automovel = new Automovel();
 
