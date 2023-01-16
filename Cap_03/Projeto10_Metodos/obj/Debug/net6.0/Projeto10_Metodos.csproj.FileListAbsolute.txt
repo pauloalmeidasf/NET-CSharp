@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\bin\Debug\net6.0\Projeto10_Metodos.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\bin\Debug\net6.0\Projeto10_Metodos.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\bin\Debug\net6.0\Projeto10_Metodos.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\bin\Debug\net6.0\Projeto10_Metodos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\bin\Debug\net6.0\Projeto10_Metodos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\obj\Debug\net6.0\Projeto10_Metodos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\obj\Debug\net6.0\Projeto10_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\obj\Debug\net6.0\Projeto10_Metodos.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\obj\Debug\net6.0\Projeto10_Metodos.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\obj\Debug\net6.0\Projeto10_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\obj\Debug\net6.0\Projeto10_Metodos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\obj\Debug\net6.0\refint\Projeto10_Metodos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\obj\Debug\net6.0\Projeto10_Metodos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\obj\Debug\net6.0\Projeto10_Metodos.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto10_Metodos\obj\Debug\net6.0\ref\Projeto10_Metodos.dll
