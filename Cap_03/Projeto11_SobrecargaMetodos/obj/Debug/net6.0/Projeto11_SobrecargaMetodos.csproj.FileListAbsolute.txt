@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\obj\Debug\net6.0\Projeto11_SobrecargaMetodos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\obj\Debug\net6.0\Projeto11_SobrecargaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\obj\Debug\net6.0\Projeto11_SobrecargaMetodos.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\obj\Debug\net6.0\Projeto11_SobrecargaMetodos.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\obj\Debug\net6.0\Projeto11_SobrecargaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\bin\Debug\net6.0\Projeto11_SobrecargaMetodos.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\bin\Debug\net6.0\Projeto11_SobrecargaMetodos.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\bin\Debug\net6.0\Projeto11_SobrecargaMetodos.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\bin\Debug\net6.0\Projeto11_SobrecargaMetodos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\bin\Debug\net6.0\Projeto11_SobrecargaMetodos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\obj\Debug\net6.0\Projeto11_SobrecargaMetodos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\obj\Debug\net6.0\refint\Projeto11_SobrecargaMetodos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\obj\Debug\net6.0\Projeto11_SobrecargaMetodos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\obj\Debug\net6.0\Projeto11_SobrecargaMetodos.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto11_SobrecargaMetodos\obj\Debug\net6.0\ref\Projeto11_SobrecargaMetodos.dll

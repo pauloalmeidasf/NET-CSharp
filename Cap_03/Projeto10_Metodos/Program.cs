@@ -19,7 +19,6 @@
  */
 
 //Método que retorna um inteiro (int)
-using System.Net.NetworkInformation;
 
 static int Multiplicar(int valor1, int valor2)
 {
