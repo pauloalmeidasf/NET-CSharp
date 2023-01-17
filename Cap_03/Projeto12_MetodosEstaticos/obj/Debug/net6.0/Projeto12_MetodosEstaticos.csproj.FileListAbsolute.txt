@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\obj\Debug\net6.0\Projeto12_MetodosEstaticos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\obj\Debug\net6.0\Projeto12_MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\obj\Debug\net6.0\Projeto12_MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\obj\Debug\net6.0\Projeto12_MetodosEstaticos.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\obj\Debug\net6.0\Projeto12_MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\bin\Debug\net6.0\Projeto12_MetodosEstaticos.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\bin\Debug\net6.0\Projeto12_MetodosEstaticos.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\bin\Debug\net6.0\Projeto12_MetodosEstaticos.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\bin\Debug\net6.0\Projeto12_MetodosEstaticos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\bin\Debug\net6.0\Projeto12_MetodosEstaticos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\obj\Debug\net6.0\Projeto12_MetodosEstaticos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\obj\Debug\net6.0\refint\Projeto12_MetodosEstaticos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\obj\Debug\net6.0\Projeto12_MetodosEstaticos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\obj\Debug\net6.0\Projeto12_MetodosEstaticos.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto12_MetodosEstaticos\obj\Debug\net6.0\ref\Projeto12_MetodosEstaticos.dll
