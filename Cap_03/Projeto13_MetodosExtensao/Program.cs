@@ -1,5 +1,4 @@
-﻿
-using Projeto13_MetodosExtensao.Class;
+﻿using Projeto13_MetodosExtensao.Class;
 
 string texto = "São cabeçalhos, rodapés, construções de gráficos";
 

@@ -21,7 +21,7 @@ namespace Projeto11_SobrecargaMetodos.Class
     internal class Pessoa
     {
 
-        public string? Nome { get; set; }
+        public string? Nome { get; set; } = default;
 
         public byte Idade { get; set; }
 

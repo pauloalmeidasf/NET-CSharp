@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\bin\Debug\net6.0\Projeto14_ParametrosReferenciaValor.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\bin\Debug\net6.0\Projeto14_ParametrosReferenciaValor.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\bin\Debug\net6.0\Projeto14_ParametrosReferenciaValor.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\bin\Debug\net6.0\Projeto14_ParametrosReferenciaValor.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\bin\Debug\net6.0\Projeto14_ParametrosReferenciaValor.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\obj\Debug\net6.0\Projeto14_ParametrosReferenciaValor.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\obj\Debug\net6.0\Projeto14_ParametrosReferenciaValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\obj\Debug\net6.0\Projeto14_ParametrosReferenciaValor.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\obj\Debug\net6.0\Projeto14_ParametrosReferenciaValor.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\obj\Debug\net6.0\Projeto14_ParametrosReferenciaValor.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\obj\Debug\net6.0\Projeto14_ParametrosReferenciaValor.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\obj\Debug\net6.0\refint\Projeto14_ParametrosReferenciaValor.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\obj\Debug\net6.0\Projeto14_ParametrosReferenciaValor.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\obj\Debug\net6.0\Projeto14_ParametrosReferenciaValor.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto14_ParametrosReferenciaValor\obj\Debug\net6.0\ref\Projeto14_ParametrosReferenciaValor.dll

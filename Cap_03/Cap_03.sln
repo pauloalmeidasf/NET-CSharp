@@ -17,17 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto06_ReferenciaThis", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto07_Enumeradores", "Projeto07_Enumeradores\Projeto07_Enumeradores.csproj", "{694988D2-F98E-4F9E-9A19-4E0CCF87D087}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto08_Estruturas", "Projeto08_Estruturas\Projeto08_Estruturas.csproj", "{E43423FA-2E56-47F8-AD33-6D9DB976F3B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto08_Estruturas", "Projeto08_Estruturas\Projeto08_Estruturas.csproj", "{E43423FA-2E56-47F8-AD33-6D9DB976F3B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto09_ModificadorStatic", "Projeto09_ModificadorStatic\Projeto09_ModificadorStatic.csproj", "{CA6BDAF4-E43A-4445-B4F2-8E41AEDAF797}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto09_ModificadorStatic", "Projeto09_ModificadorStatic\Projeto09_ModificadorStatic.csproj", "{CA6BDAF4-E43A-4445-B4F2-8E41AEDAF797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto10_Metodos", "Projeto10_Metodos\Projeto10_Metodos.csproj", "{F475EA6C-5C49-4F04-A7B7-3492F15897BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto10_Metodos", "Projeto10_Metodos\Projeto10_Metodos.csproj", "{F475EA6C-5C49-4F04-A7B7-3492F15897BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto11_SobrecargaMetodos", "Projeto11_SobrecargaMetodos\Projeto11_SobrecargaMetodos.csproj", "{AC3BAE3B-9FE5-4505-9CD2-63D8D561CB0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto11_SobrecargaMetodos", "Projeto11_SobrecargaMetodos\Projeto11_SobrecargaMetodos.csproj", "{AC3BAE3B-9FE5-4505-9CD2-63D8D561CB0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto12_MetodosEstaticos", "Projeto12_MetodosEstaticos\Projeto12_MetodosEstaticos.csproj", "{B4DE0FDE-BD8E-49AB-8460-CCDF73675BBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto12_MetodosEstaticos", "Projeto12_MetodosEstaticos\Projeto12_MetodosEstaticos.csproj", "{B4DE0FDE-BD8E-49AB-8460-CCDF73675BBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto13_MetodosExtensao", "Projeto13_MetodosExtensao\Projeto13_MetodosExtensao.csproj", "{07E117C6-1AF2-4AB6-A9F5-DF709F5C48AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto13_MetodosExtensao", "Projeto13_MetodosExtensao\Projeto13_MetodosExtensao.csproj", "{07E117C6-1AF2-4AB6-A9F5-DF709F5C48AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto14_ParametrosReferenciaValor", "Projeto14_ParametrosReferenciaValor\Projeto14_ParametrosReferenciaValor.csproj", "{CCE3C5ED-2719-425F-A1DB-434F41278BD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{07E117C6-1AF2-4AB6-A9F5-DF709F5C48AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07E117C6-1AF2-4AB6-A9F5-DF709F5C48AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07E117C6-1AF2-4AB6-A9F5-DF709F5C48AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE3C5ED-2719-425F-A1DB-434F41278BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE3C5ED-2719-425F-A1DB-434F41278BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE3C5ED-2719-425F-A1DB-434F41278BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE3C5ED-2719-425F-A1DB-434F41278BD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
