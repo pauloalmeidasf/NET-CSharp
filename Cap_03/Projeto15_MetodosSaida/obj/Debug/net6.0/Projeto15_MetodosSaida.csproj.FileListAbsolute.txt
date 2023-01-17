@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\bin\Debug\net6.0\Projeto15_MetodosSaida.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\bin\Debug\net6.0\Projeto15_MetodosSaida.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\bin\Debug\net6.0\Projeto15_MetodosSaida.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\bin\Debug\net6.0\Projeto15_MetodosSaida.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\bin\Debug\net6.0\Projeto15_MetodosSaida.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\obj\Debug\net6.0\Projeto15_MetodosSaida.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\obj\Debug\net6.0\Projeto15_MetodosSaida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\obj\Debug\net6.0\Projeto15_MetodosSaida.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\obj\Debug\net6.0\Projeto15_MetodosSaida.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\obj\Debug\net6.0\Projeto15_MetodosSaida.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\obj\Debug\net6.0\Projeto15_MetodosSaida.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\obj\Debug\net6.0\refint\Projeto15_MetodosSaida.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\obj\Debug\net6.0\Projeto15_MetodosSaida.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\obj\Debug\net6.0\Projeto15_MetodosSaida.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto15_MetodosSaida\obj\Debug\net6.0\ref\Projeto15_MetodosSaida.dll
