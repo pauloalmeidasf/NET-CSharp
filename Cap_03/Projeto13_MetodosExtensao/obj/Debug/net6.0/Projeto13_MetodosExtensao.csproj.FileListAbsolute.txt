@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\bin\Debug\net6.0\Projeto13_MetodosExtensao.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\bin\Debug\net6.0\Projeto13_MetodosExtensao.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\bin\Debug\net6.0\Projeto13_MetodosExtensao.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\bin\Debug\net6.0\Projeto13_MetodosExtensao.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\bin\Debug\net6.0\Projeto13_MetodosExtensao.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\obj\Debug\net6.0\Projeto13_MetodosExtensao.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\obj\Debug\net6.0\Projeto13_MetodosExtensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\obj\Debug\net6.0\Projeto13_MetodosExtensao.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\obj\Debug\net6.0\Projeto13_MetodosExtensao.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\obj\Debug\net6.0\Projeto13_MetodosExtensao.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\obj\Debug\net6.0\Projeto13_MetodosExtensao.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\obj\Debug\net6.0\refint\Projeto13_MetodosExtensao.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\obj\Debug\net6.0\Projeto13_MetodosExtensao.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\obj\Debug\net6.0\Projeto13_MetodosExtensao.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto13_MetodosExtensao\obj\Debug\net6.0\ref\Projeto13_MetodosExtensao.dll
