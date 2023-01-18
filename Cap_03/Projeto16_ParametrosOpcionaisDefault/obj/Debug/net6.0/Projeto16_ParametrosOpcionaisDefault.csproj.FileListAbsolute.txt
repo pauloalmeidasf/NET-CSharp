@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\bin\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\bin\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\bin\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\bin\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\bin\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\obj\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\obj\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\obj\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\obj\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\obj\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\obj\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\obj\Debug\net6.0\refint\Projeto16_ParametrosOpcionaisDefault.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\obj\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\obj\Debug\net6.0\Projeto16_ParametrosOpcionaisDefault.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto16_ParametrosOpcionaisDefault\obj\Debug\net6.0\ref\Projeto16_ParametrosOpcionaisDefault.dll
