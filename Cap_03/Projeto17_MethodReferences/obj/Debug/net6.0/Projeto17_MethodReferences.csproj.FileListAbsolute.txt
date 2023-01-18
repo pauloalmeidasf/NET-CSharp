@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\bin\Debug\net6.0\Projeto17_MethodReferences.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\bin\Debug\net6.0\Projeto17_MethodReferences.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\bin\Debug\net6.0\Projeto17_MethodReferences.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\bin\Debug\net6.0\Projeto17_MethodReferences.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\bin\Debug\net6.0\Projeto17_MethodReferences.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\obj\Debug\net6.0\Projeto17_MethodReferences.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\obj\Debug\net6.0\Projeto17_MethodReferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\obj\Debug\net6.0\Projeto17_MethodReferences.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\obj\Debug\net6.0\Projeto17_MethodReferences.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\obj\Debug\net6.0\Projeto17_MethodReferences.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\obj\Debug\net6.0\Projeto17_MethodReferences.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\obj\Debug\net6.0\refint\Projeto17_MethodReferences.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\obj\Debug\net6.0\Projeto17_MethodReferences.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\obj\Debug\net6.0\Projeto17_MethodReferences.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto17_MethodReferences\obj\Debug\net6.0\ref\Projeto17_MethodReferences.dll

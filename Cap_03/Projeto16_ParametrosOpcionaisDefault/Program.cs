@@ -1,6 +1,6 @@
 ﻿using Projeto16_ParametrosOpcionaisDefault.Enum;
 
-//Método com parâmetro opcional
+//Método com parâmetro default
 static string MostrarEstado(Estados estado = Estados.PR)
 {
 
@@ -20,7 +20,7 @@ static double CalcularValor(double valor, double taxa = 0, double imposto = 0)
 
 }
 
-//Exibe resultados de métodos com parâmetro opcional
+//Exibe resultados de métodos com parâmetro default
 Console.WriteLine(MostrarEstado(Estados.MG));
 
 Console.WriteLine();
@@ -31,6 +31,7 @@ Console.WriteLine();
 
 double valor = 1000;
 
+//Exibe resultados com parâmetro opcionais
 Console.WriteLine($"Valor sem desconto: {CalcularValor(valor)}");
 Console.WriteLine($"Valor com desconto de taxa: {CalcularValor(taxa:10, valor:valor)}");
 Console.WriteLine($"Valor com desconto de imposto: {CalcularValor(imposto:18, valor:valor)}");
