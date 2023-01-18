@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\bin\Debug\net6.0\Projeto18_Const.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\bin\Debug\net6.0\Projeto18_Const.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\bin\Debug\net6.0\Projeto18_Const.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\bin\Debug\net6.0\Projeto18_Const.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\bin\Debug\net6.0\Projeto18_Const.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\obj\Debug\net6.0\Projeto18_Const.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\obj\Debug\net6.0\Projeto18_Const.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\obj\Debug\net6.0\Projeto18_Const.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\obj\Debug\net6.0\Projeto18_Const.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\obj\Debug\net6.0\Projeto18_Const.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\obj\Debug\net6.0\Projeto18_Const.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\obj\Debug\net6.0\refint\Projeto18_Const.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\obj\Debug\net6.0\Projeto18_Const.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\obj\Debug\net6.0\Projeto18_Const.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_03\Projeto18_Const\obj\Debug\net6.0\ref\Projeto18_Const.dll
