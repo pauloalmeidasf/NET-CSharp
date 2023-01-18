@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\bin\Debug\net6.0\Projeto01_ConstrutorDefault.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\bin\Debug\net6.0\Projeto01_ConstrutorDefault.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\bin\Debug\net6.0\Projeto01_ConstrutorDefault.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\bin\Debug\net6.0\Projeto01_ConstrutorDefault.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\bin\Debug\net6.0\Projeto01_ConstrutorDefault.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\obj\Debug\net6.0\Projeto01_ConstrutorDefault.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\obj\Debug\net6.0\Projeto01_ConstrutorDefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\obj\Debug\net6.0\Projeto01_ConstrutorDefault.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\obj\Debug\net6.0\Projeto01_ConstrutorDefault.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\obj\Debug\net6.0\Projeto01_ConstrutorDefault.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\obj\Debug\net6.0\Projeto01_ConstrutorDefault.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\obj\Debug\net6.0\refint\Projeto01_ConstrutorDefault.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\obj\Debug\net6.0\Projeto01_ConstrutorDefault.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\obj\Debug\net6.0\Projeto01_ConstrutorDefault.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto01_ConstrutorDefault\obj\Debug\net6.0\ref\Projeto01_ConstrutorDefault.dll
