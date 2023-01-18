@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto01_ConstrutorDefault
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto02_ConstrutorPersonalizado", "Projeto02_ConstrutorPersonalizado\Projeto02_ConstrutorPersonalizado.csproj", "{F94CCDA7-5067-410F-8F36-0B2349C180DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto03_ConstrutorSobrecarregado", "Projeto03_ConstrutorSobrecarregado\Projeto03_ConstrutorSobrecarregado.csproj", "{E5D60E02-E85C-4BAE-A43B-AF8EEB3CB79B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F94CCDA7-5067-410F-8F36-0B2349C180DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F94CCDA7-5067-410F-8F36-0B2349C180DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F94CCDA7-5067-410F-8F36-0B2349C180DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D60E02-E85C-4BAE-A43B-AF8EEB3CB79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D60E02-E85C-4BAE-A43B-AF8EEB3CB79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D60E02-E85C-4BAE-A43B-AF8EEB3CB79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D60E02-E85C-4BAE-A43B-AF8EEB3CB79B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

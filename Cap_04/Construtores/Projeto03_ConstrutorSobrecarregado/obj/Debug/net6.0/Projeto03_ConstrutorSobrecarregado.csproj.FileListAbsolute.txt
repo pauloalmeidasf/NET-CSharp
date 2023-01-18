@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\obj\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\obj\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\obj\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\obj\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\obj\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\bin\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\bin\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\bin\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\bin\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\bin\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\obj\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\obj\Debug\net6.0\refint\Projeto03_ConstrutorSobrecarregado.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\obj\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\obj\Debug\net6.0\Projeto03_ConstrutorSobrecarregado.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_04\Construtores\Projeto03_ConstrutorSobrecarregado\obj\Debug\net6.0\ref\Projeto03_ConstrutorSobrecarregado.dll
