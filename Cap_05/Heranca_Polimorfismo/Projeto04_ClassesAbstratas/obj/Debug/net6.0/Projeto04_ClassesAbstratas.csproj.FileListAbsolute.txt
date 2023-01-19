@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\bin\Debug\net6.0\Projeto04_ClassesAbstratas.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\bin\Debug\net6.0\Projeto04_ClassesAbstratas.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\bin\Debug\net6.0\Projeto04_ClassesAbstratas.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\bin\Debug\net6.0\Projeto04_ClassesAbstratas.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\bin\Debug\net6.0\Projeto04_ClassesAbstratas.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\obj\Debug\net6.0\Projeto04_ClassesAbstratas.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\obj\Debug\net6.0\Projeto04_ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\obj\Debug\net6.0\Projeto04_ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\obj\Debug\net6.0\Projeto04_ClassesAbstratas.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\obj\Debug\net6.0\Projeto04_ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\obj\Debug\net6.0\Projeto04_ClassesAbstratas.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\obj\Debug\net6.0\refint\Projeto04_ClassesAbstratas.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\obj\Debug\net6.0\Projeto04_ClassesAbstratas.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\obj\Debug\net6.0\Projeto04_ClassesAbstratas.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto04_ClassesAbstratas\obj\Debug\net6.0\ref\Projeto04_ClassesAbstratas.dll
