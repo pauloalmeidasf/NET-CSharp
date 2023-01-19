@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto04_ClassesAbstratas"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto05_ClassesSealed", "Projeto05_ClassesSealed\Projeto05_ClassesSealed.csproj", "{2566029E-F0EC-469B-B17B-4DD078C5B04F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto06_ClassesEstaticas", "Projeto06_ClassesEstaticas\Projeto06_ClassesEstaticas.csproj", "{66782F25-8715-4A9A-B716-CF7C98CB5308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2566029E-F0EC-469B-B17B-4DD078C5B04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2566029E-F0EC-469B-B17B-4DD078C5B04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2566029E-F0EC-469B-B17B-4DD078C5B04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66782F25-8715-4A9A-B716-CF7C98CB5308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66782F25-8715-4A9A-B716-CF7C98CB5308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66782F25-8715-4A9A-B716-CF7C98CB5308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66782F25-8715-4A9A-B716-CF7C98CB5308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

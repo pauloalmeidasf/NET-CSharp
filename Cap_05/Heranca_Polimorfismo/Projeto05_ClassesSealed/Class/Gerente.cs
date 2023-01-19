@@ -8,8 +8,5 @@ namespace Projeto05_ClassesSealed.Class
 {
     internal class Gerente : Funcionario
     {
-
-
-
     }
 }
