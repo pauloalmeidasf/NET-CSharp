@@ -28,7 +28,5 @@ namespace Projeto01_Heranca.Class
 
         public decimal Salario { get; set; }
 
-        
-
     }
 }
