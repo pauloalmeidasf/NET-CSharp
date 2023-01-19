@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\bin\Debug\net6.0\Projeto03_Polimorfismo.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\bin\Debug\net6.0\Projeto03_Polimorfismo.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\bin\Debug\net6.0\Projeto03_Polimorfismo.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\bin\Debug\net6.0\Projeto03_Polimorfismo.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\bin\Debug\net6.0\Projeto03_Polimorfismo.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\obj\Debug\net6.0\Projeto03_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\obj\Debug\net6.0\Projeto03_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\obj\Debug\net6.0\Projeto03_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\obj\Debug\net6.0\Projeto03_Polimorfismo.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\obj\Debug\net6.0\Projeto03_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\obj\Debug\net6.0\Projeto03_Polimorfismo.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\obj\Debug\net6.0\refint\Projeto03_Polimorfismo.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\obj\Debug\net6.0\Projeto03_Polimorfismo.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\obj\Debug\net6.0\Projeto03_Polimorfismo.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto03_Polimorfismo\obj\Debug\net6.0\ref\Projeto03_Polimorfismo.dll
