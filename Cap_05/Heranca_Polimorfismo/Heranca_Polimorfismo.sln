@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto02_OperadorBase", "P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto03_Polimorfismo", "Projeto03_Polimorfismo\Projeto03_Polimorfismo.csproj", "{AFD23D77-BF7D-460B-9F4F-37D97A5A416E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto04_ClassesAbstratas", "Projeto04_ClassesAbstratas\Projeto04_ClassesAbstratas.csproj", "{ECDB85FA-9ED2-418F-8C13-5B7166D1D9DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto04_ClassesAbstratas", "Projeto04_ClassesAbstratas\Projeto04_ClassesAbstratas.csproj", "{ECDB85FA-9ED2-418F-8C13-5B7166D1D9DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto05_ClassesSealed", "Projeto05_ClassesSealed\Projeto05_ClassesSealed.csproj", "{2566029E-F0EC-469B-B17B-4DD078C5B04F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{ECDB85FA-9ED2-418F-8C13-5B7166D1D9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECDB85FA-9ED2-418F-8C13-5B7166D1D9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECDB85FA-9ED2-418F-8C13-5B7166D1D9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2566029E-F0EC-469B-B17B-4DD078C5B04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2566029E-F0EC-469B-B17B-4DD078C5B04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2566029E-F0EC-469B-B17B-4DD078C5B04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2566029E-F0EC-469B-B17B-4DD078C5B04F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto05_ClassesSealed\obj\Debug\net6.0\Projeto05_ClassesSealed.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto05_ClassesSealed\obj\Debug\net6.0\Projeto05_ClassesSealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto05_ClassesSealed\obj\Debug\net6.0\Projeto05_ClassesSealed.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto05_ClassesSealed\obj\Debug\net6.0\Projeto05_ClassesSealed.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_05\Heranca_Polimorfismo\Projeto05_ClassesSealed\obj\Debug\net6.0\Projeto05_ClassesSealed.csproj.CoreCompileInputs.cache
