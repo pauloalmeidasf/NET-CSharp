@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\bin\Debug\net6.0\Projeto01_Array.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\bin\Debug\net6.0\Projeto01_Array.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\bin\Debug\net6.0\Projeto01_Array.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\bin\Debug\net6.0\Projeto01_Array.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\bin\Debug\net6.0\Projeto01_Array.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\obj\Debug\net6.0\refint\Projeto01_Array.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto01_Array\obj\Debug\net6.0\ref\Projeto01_Array.dll

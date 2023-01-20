@@ -14,10 +14,9 @@ namespace Projeto01_Interfaces.Interfaces
      * 
      * São formadas pela declaração de um ou mais métodos
      * 
-     * Quando implmentada, um interface garante que seus métodos sejam implementados na classe
+     * Quando implmentada, uma interface garante que seus métodos sejam implementados na classe
      * 
      * O membros da interface são automaticamente públicos
-     * 
      * 
      */
 
