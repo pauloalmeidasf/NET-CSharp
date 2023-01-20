@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Projeto06_ClassesEstaticas.Class
 {
+
     /*
      * Classe Estática
      * 

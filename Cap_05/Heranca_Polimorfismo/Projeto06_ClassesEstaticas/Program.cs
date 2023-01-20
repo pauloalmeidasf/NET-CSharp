@@ -1,4 +1,3 @@
-﻿
-using Projeto06_ClassesEstaticas.Class;
+﻿using Projeto06_ClassesEstaticas.Class;
 
 DB.ConectDB();       
