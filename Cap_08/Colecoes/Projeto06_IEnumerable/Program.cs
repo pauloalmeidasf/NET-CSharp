@@ -12,7 +12,7 @@
  */
 
 List<string> nomes = new List<string>() 
-{ "Andrea", "Cesar", "Diogo", "Jonathan", "Lincon", "Lorran", "Paulo", "Pedro", "Rafael", "Obelix"};
+{ "Andrea", "Cesar", "Diogo", "Jonathan", "Lincoln", "Lorran", "Paulo", "Pedro", "Rafael", "Obelix"};
 
 IEnumerable<string> nomesIEnumerable = nomes;
 
