@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\bin\Debug\net6.0\Projeto06_IEnumerable.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\bin\Debug\net6.0\Projeto06_IEnumerable.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\bin\Debug\net6.0\Projeto06_IEnumerable.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\bin\Debug\net6.0\Projeto06_IEnumerable.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\bin\Debug\net6.0\Projeto06_IEnumerable.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\obj\Debug\net6.0\Projeto06_IEnumerable.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\obj\Debug\net6.0\Projeto06_IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\obj\Debug\net6.0\Projeto06_IEnumerable.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\obj\Debug\net6.0\Projeto06_IEnumerable.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\obj\Debug\net6.0\Projeto06_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\obj\Debug\net6.0\Projeto06_IEnumerable.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\obj\Debug\net6.0\refint\Projeto06_IEnumerable.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\obj\Debug\net6.0\Projeto06_IEnumerable.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\obj\Debug\net6.0\Projeto06_IEnumerable.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto06_IEnumerable\obj\Debug\net6.0\ref\Projeto06_IEnumerable.dll
