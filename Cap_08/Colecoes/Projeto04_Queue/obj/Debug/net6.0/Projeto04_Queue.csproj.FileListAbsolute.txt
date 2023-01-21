@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\bin\Debug\net6.0\Projeto04_Queue.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\bin\Debug\net6.0\Projeto04_Queue.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\bin\Debug\net6.0\Projeto04_Queue.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\bin\Debug\net6.0\Projeto04_Queue.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\bin\Debug\net6.0\Projeto04_Queue.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\obj\Debug\net6.0\Projeto04_Queue.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\obj\Debug\net6.0\Projeto04_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\obj\Debug\net6.0\Projeto04_Queue.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\obj\Debug\net6.0\Projeto04_Queue.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\obj\Debug\net6.0\Projeto04_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\obj\Debug\net6.0\Projeto04_Queue.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\obj\Debug\net6.0\refint\Projeto04_Queue.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\obj\Debug\net6.0\Projeto04_Queue.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\obj\Debug\net6.0\Projeto04_Queue.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto04_Queue\obj\Debug\net6.0\ref\Projeto04_Queue.dll

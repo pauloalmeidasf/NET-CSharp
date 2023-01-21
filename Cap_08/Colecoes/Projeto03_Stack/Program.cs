@@ -1,12 +1,12 @@
 ﻿/*
- * Classe Stack
+ * Classe Stack (Pilha)
  * 
  * Permite a inclusão de elementos usando o conceito de pilha: o último a entrar é o primeiro a sair
  * 
  * Não é possível acessar os elementos pelo índice (posição) onde estão armazenados
  * 
  * Aplicações: implementação de funções recursivas, mecanismo de fazer e refazer em aplicação,
- * avaliaçào de expressões em calculadoras especializadas, avaliação de expressões em geral
+ * avaliação de expressões em calculadoras especializadas, avaliação de expressões em geral
  * 
  */
 
