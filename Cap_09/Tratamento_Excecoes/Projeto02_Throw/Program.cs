@@ -3,7 +3,7 @@
  * 
  * Dispara um erro criado pelo programa em tempo de execução
  * 
- * A exceção produzida deve ser colocada dentro de um bloco try
+ * A exceção produzida será capturada em um bloco try/catch
  * 
  */
 
