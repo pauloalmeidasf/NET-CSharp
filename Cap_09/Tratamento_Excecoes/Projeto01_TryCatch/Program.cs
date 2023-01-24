@@ -1,5 +1,5 @@
 ﻿/*
- * Try: executa o código se não houver execeção 
+ * Try: executa o código se não houver exceção 
  * 
  * Catch: captura qualquer exceção encontrada no bloco try
  * 
@@ -46,7 +46,5 @@ finally
     Console.WriteLine("Operação finalizada.\n");
 
 }
-
-Console.WriteLine("erro");
 
 Console.ReadKey();
