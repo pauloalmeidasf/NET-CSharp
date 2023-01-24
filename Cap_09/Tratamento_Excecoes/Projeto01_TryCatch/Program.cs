@@ -7,6 +7,8 @@
  * 
  */
 
+bool excecao = true;
+
 try
 {
 
@@ -28,6 +30,8 @@ try
 catch (Exception ex)
 {
 
+    Console.WriteLine();
+
     //mensagem personalizada
     Console.WriteLine("Erro personalizado: Erro ao realizar a operação\n\n");
 
@@ -39,8 +43,10 @@ finally
 {
 
     //é executado independentemente de ter ocorrido uma execeção ou não
-    Console.WriteLine("Operação finalizada.\n\n");
+    Console.WriteLine("Operação finalizada.\n");
 
 }
+
+Console.WriteLine("erro");
 
 Console.ReadKey();

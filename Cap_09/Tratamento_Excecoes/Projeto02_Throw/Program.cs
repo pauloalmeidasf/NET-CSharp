@@ -3,7 +3,7 @@
  * 
  * Dispara um erro criado pelo programa em tempo de execução
  * 
- * A exceção produzida deve ser colocada dentro de um blco try
+ * A exceção produzida deve ser colocada dentro de um bloco try
  * 
  */
 
@@ -14,9 +14,9 @@ static int CalculaIdade(string dataNascimento)
 
     int idade;
 
-    bool validaDataNascimento = DateTime.TryParse(dataNascimento, out nascimento);
+    bool dataNacimentoValida = DateTime.TryParse(dataNascimento, out nascimento);
 
-    if(validaDataNascimento == false)
+    if(dataNacimentoValida == false)
     {
 
         throw new Exception("Dado informado inválido");
