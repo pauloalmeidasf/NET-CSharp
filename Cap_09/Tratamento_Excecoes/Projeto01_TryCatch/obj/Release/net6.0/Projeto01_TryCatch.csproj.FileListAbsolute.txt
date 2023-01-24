@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\bin\Release\net6.0\Projeto01_TryCatch.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\bin\Release\net6.0\Projeto01_TryCatch.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\bin\Release\net6.0\Projeto01_TryCatch.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\bin\Release\net6.0\Projeto01_TryCatch.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\bin\Release\net6.0\Projeto01_TryCatch.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\obj\Release\net6.0\Projeto01_TryCatch.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\obj\Release\net6.0\Projeto01_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\obj\Release\net6.0\Projeto01_TryCatch.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\obj\Release\net6.0\Projeto01_TryCatch.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\obj\Release\net6.0\Projeto01_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\obj\Release\net6.0\Projeto01_TryCatch.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\obj\Release\net6.0\refint\Projeto01_TryCatch.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\obj\Release\net6.0\Projeto01_TryCatch.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\obj\Release\net6.0\Projeto01_TryCatch.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_09\Tratamento_Excecoes\Projeto01_TryCatch\obj\Release\net6.0\ref\Projeto01_TryCatch.dll
