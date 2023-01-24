@@ -3,11 +3,11 @@
  * 
  * Catch: captura qualquer exceção encontrada no bloco try
  * 
- * Finaly: sempre executado ao final do bloco
+ * Finaly: sempre executado ao final do bloco. Opcional
  * 
  */
 
-bool excecao = true;
+
 
 try
 {
@@ -46,5 +46,7 @@ finally
     Console.WriteLine("Operação finalizada.\n");
 
 }
+
+Console.WriteLine("teste final bloco try");
 
 Console.ReadKey();
