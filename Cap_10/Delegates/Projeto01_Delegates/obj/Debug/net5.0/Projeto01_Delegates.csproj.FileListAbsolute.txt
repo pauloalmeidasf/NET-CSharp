@@ -1,0 +1,16 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\refint\Projeto01_Delegates.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\ref\Projeto01_Delegates.dll

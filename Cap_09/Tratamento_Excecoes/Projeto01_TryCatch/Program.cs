@@ -7,8 +7,6 @@
  * 
  */
 
-
-
 try
 {
 
@@ -37,6 +35,9 @@ catch (Exception ex)
 
     //mensagem com os destalhes do erro
     Console.WriteLine($"Detalhes técnicos: {ex.Message}\n\n");
+
+    //se desejar interromper o funcionamento do programa, poderá opcionalmente, utilizar o comando return 
+    //return;
     
 }
 finally
