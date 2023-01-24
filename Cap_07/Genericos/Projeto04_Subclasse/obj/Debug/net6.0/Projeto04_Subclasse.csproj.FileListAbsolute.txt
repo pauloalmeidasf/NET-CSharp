@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\bin\Debug\net6.0\Projeto04_Subclasse.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\bin\Debug\net6.0\Projeto04_Subclasse.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\bin\Debug\net6.0\Projeto04_Subclasse.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\bin\Debug\net6.0\Projeto04_Subclasse.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\bin\Debug\net6.0\Projeto04_Subclasse.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\refint\Projeto04_Subclasse.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\ref\Projeto04_Subclasse.dll

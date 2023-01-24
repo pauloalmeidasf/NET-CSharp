@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\bin\Debug\net6.0\Projeto05_Restricoes.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\bin\Debug\net6.0\Projeto05_Restricoes.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\bin\Debug\net6.0\Projeto05_Restricoes.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\bin\Debug\net6.0\Projeto05_Restricoes.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\bin\Debug\net6.0\Projeto05_Restricoes.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\refint\Projeto05_Restricoes.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\ref\Projeto05_Restricoes.dll

@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\bin\Debug\net6.0\Projeto08_Params.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\bin\Debug\net6.0\Projeto08_Params.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\bin\Debug\net6.0\Projeto08_Params.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\bin\Debug\net6.0\Projeto08_Params.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\bin\Debug\net6.0\Projeto08_Params.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\obj\Debug\net6.0\refint\Projeto08_Params.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_08\Colecoes\Projeto08_Params\obj\Debug\net6.0\ref\Projeto08_Params.dll

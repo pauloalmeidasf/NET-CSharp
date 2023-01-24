@@ -5,17 +5,19 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto01_Array", "Projeto01_Array\Projeto01_Array.csproj", "{C5437CF1-BE6C-4881-A608-8D6CA9A7F9A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto02_ArrayList", "Projeto02_ArrayList\Projeto02_ArrayList.csproj", "{1E09DF1B-0CB6-43B2-BCB7-D5F24406B21A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto02_ArrayList", "Projeto02_ArrayList\Projeto02_ArrayList.csproj", "{1E09DF1B-0CB6-43B2-BCB7-D5F24406B21A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto03_Stack", "Projeto03_Stack\Projeto03_Stack.csproj", "{0BF8FDC8-78BE-4B57-8E3D-420C595D8BEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto03_Stack", "Projeto03_Stack\Projeto03_Stack.csproj", "{0BF8FDC8-78BE-4B57-8E3D-420C595D8BEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto04_Queue", "Projeto04_Queue\Projeto04_Queue.csproj", "{796FB0A3-C9AA-41A8-9372-E5951A56C917}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto04_Queue", "Projeto04_Queue\Projeto04_Queue.csproj", "{796FB0A3-C9AA-41A8-9372-E5951A56C917}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto05_List", "Projeto05_List\Projeto05_List.csproj", "{AD2795C8-6391-40EE-8E4D-B5A833F83D85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto05_List", "Projeto05_List\Projeto05_List.csproj", "{AD2795C8-6391-40EE-8E4D-B5A833F83D85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto06_IEnumerable", "Projeto06_IEnumerable\Projeto06_IEnumerable.csproj", "{EB72F059-1A69-478F-91F7-B14437C3740B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto06_IEnumerable", "Projeto06_IEnumerable\Projeto06_IEnumerable.csproj", "{EB72F059-1A69-478F-91F7-B14437C3740B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto07_Yield", "Projeto07_Yield\Projeto07_Yield.csproj", "{082CB751-1CBE-4BE7-98F9-A908EE6DF8D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto07_Yield", "Projeto07_Yield\Projeto07_Yield.csproj", "{082CB751-1CBE-4BE7-98F9-A908EE6DF8D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto08_Params", "Projeto08_Params\Projeto08_Params.csproj", "{4C9B1C7E-D081-4524-BD68-76FFC37EE39D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{082CB751-1CBE-4BE7-98F9-A908EE6DF8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{082CB751-1CBE-4BE7-98F9-A908EE6DF8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{082CB751-1CBE-4BE7-98F9-A908EE6DF8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9B1C7E-D081-4524-BD68-76FFC37EE39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9B1C7E-D081-4524-BD68-76FFC37EE39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9B1C7E-D081-4524-BD68-76FFC37EE39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9B1C7E-D081-4524-BD68-76FFC37EE39D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
