@@ -8,9 +8,13 @@
 
         Console.WriteLine("Delegates Genéricos");
 
+        Console.WriteLine();
+
         string[] paises = { "Brasil", "Portugal", "França", "Itália", "Estados Unidos" };
 
         Buscar<string> resultado = p => p.Contains("i");
+
+        Console.WriteLine("Países que cotêm a letra 'i'");
 
         foreach (string pais in paises) {
 

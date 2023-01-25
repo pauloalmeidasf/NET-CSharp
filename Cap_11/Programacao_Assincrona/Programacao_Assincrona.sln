@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto01_ProgramacaoAssincronaTask", "Projeto01_ProgramacaoAssincronaTask\Projeto01_ProgramacaoAssincronaTask.csproj", "{16A01EDF-B408-4DF6-B429-026E9CBA573C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto02_ProgramacaoAssincronaTaskGenerico", "Projeto02_ProgramacaoAssincronaTaskGenerico\Projeto02_ProgramacaoAssincronaTaskGenerico.csproj", "{9B415300-940A-4453-BBB2-B7E85F1EE4FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A01EDF-B408-4DF6-B429-026E9CBA573C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A01EDF-B408-4DF6-B429-026E9CBA573C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A01EDF-B408-4DF6-B429-026E9CBA573C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A01EDF-B408-4DF6-B429-026E9CBA573C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B415300-940A-4453-BBB2-B7E85F1EE4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B415300-940A-4453-BBB2-B7E85F1EE4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B415300-940A-4453-BBB2-B7E85F1EE4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B415300-940A-4453-BBB2-B7E85F1EE4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4945A77E-A029-456D-93C6-910EF7FB6054}
+	EndGlobalSection
+EndGlobal

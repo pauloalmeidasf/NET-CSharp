@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\bin\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\bin\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\bin\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\bin\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\bin\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\obj\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\obj\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\obj\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\obj\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\obj\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\obj\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\obj\Debug\net6.0\refint\Projeto01_ProgramacaoAssincronaTask.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\obj\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\obj\Debug\net6.0\Projeto01_ProgramacaoAssincronaTask.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_11\Programacao_Assincrona\Projeto01_ProgramacaoAssincronaTask\obj\Debug\net6.0\ref\Projeto01_ProgramacaoAssincronaTask.dll
