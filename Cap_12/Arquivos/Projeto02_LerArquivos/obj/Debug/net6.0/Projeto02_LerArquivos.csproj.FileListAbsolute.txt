@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\bin\Debug\net6.0\Projeto02_LerArquivos.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\bin\Debug\net6.0\Projeto02_LerArquivos.deps.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\bin\Debug\net6.0\Projeto02_LerArquivos.runtimeconfig.json
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\bin\Debug\net6.0\Projeto02_LerArquivos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\bin\Debug\net6.0\Projeto02_LerArquivos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\refint\Projeto02_LerArquivos.dll
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Cap_12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\ref\Projeto02_LerArquivos.dll
