@@ -99,7 +99,7 @@ namespace Projeto01_BancoDados.Class.Categoria
 
             int codigo = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Informe o novo nome da categoria: ");
+            Console.Write("Informe o novo nome da categoria: ");
 
             string novoNomeCategoria = Console.ReadLine();
 
